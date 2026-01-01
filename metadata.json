@@ -1,0 +1,7 @@
+{
+  "name": "FloraLens - Plant Identifier",
+  "description": "Identify any plant instantly with AI. Get care tips, scientific data, and toxicity information using cutting-edge vision technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
